@@ -35,6 +35,8 @@
   Verbessert die Standard Biome.
 - Continents
   Die Map wird in Kontinente aufgeteilt mit riesigen Ozeanen zwischen ihnen in denen es Inseln und andere Dinge zu entdecken gibt.
+- ChoiceTheorem's Overhauled Village
+  Überholte und verbesserte Dörfer
 - Starterkit
   Ein kleines Starterkit für Neuankömmlinge.
 - Weakerspiderwebs
