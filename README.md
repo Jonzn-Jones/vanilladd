@@ -28,7 +28,7 @@
 - Forge Config API Port
 
 ## Auf dem Server installiert: ##
--# *(Auflistung enthält nur Gameplay relevante Mods)*
+<sup>(Auflistung enthält nur Gameplay relevante Mods)*</sup>
 - Tectonic
   Ein verbesserter World Generator mit wunderschönen Gebirgsketten und weiten Landschaften. (Erhöht die Grund und Bauhöhe)
 - Geophilic
