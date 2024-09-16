@@ -53,4 +53,6 @@
 - Grassseeds\
   Mit normalen Samen kanst du Erde wieder zu Gras machen.
 - Ice-prevents-Crop-growth\
-  Ein Eisblock unter Setzlingen verhindert dass sie weiterwachsen.
+  Ein Eisblock unter Setzlingen verhindert dass sie weiterwachs
+- Tree Harvester\
+  Bäume können mit Eisen, Diamant, Gold oder Netherite-Äxte auf einmal gefällt werden indem man sneaked.
