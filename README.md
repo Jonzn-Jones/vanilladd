@@ -1,31 +1,34 @@
 ## Modpack: ##
-- Better Statistics Screen
-- Immersive Thunder
-- Moonlight Lib
-- Placeholder API
-- Sodium
-- Pick Up Notifier
-- Cloth Config v15
-- M.R.U
-- CreativeCore
-- Distant Horizons
-- Inventory Tweak
-- Camera Utils
 - Sounds
-- Mod Menu
-- Mouse Tweaks
 - Smooth Scroll
-- Puzzles Lib
+- Pick Up Notifier
 - TCD Commons API
+- Immersive Thunder
+- Camera Utils
+- Inventory Tweak
 - AmbientSounds
-- Iris
-- Fabric API
-- Noisium
-- Particular
-- Just Enough Items
-- oωo (owo-lib)
-- Sound Physics Remastered
+- Cloth Config v15
+- oωo
+- Mouse Tweaks
 - Forge Config API Port
+- Placeholder API
+- Just Enough Items
+- Particular
+- Better Statistics Screen
+- Noisium
+- Fabric API
+- Iris
+- Sodium
+- Sound Physics Remastered
+- CreativeCore
+- Puzzles Lib
+- Distant Horizons
+- Chat Patches
+- Mod Menu
+- M.R.U
+- Moonlight Lib
+- Continuity
+- Indium
 
 ## Auf dem Server installiert: ##
 <sup>(Auflistung enthält nur Gameplay relevante Mods)*</sup>
